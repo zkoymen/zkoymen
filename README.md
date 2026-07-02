@@ -75,13 +75,13 @@ zeynep = {
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[rec-system](https://github.com/zkoymen/rec-system)** | End-to-end recommender: data, model, recall, ranking, serving | `Python` `PyTorch` `FastAPI` `Uvicorn` `Pandas` `NumPy` `Pydantic` `pytest` `GitHub Actions` |
-| **[llm-intrusion-detection](https://github.com/zkoymen/llm-intrusion-detection)** | LLM-based network intrusion detection | `Python` `OpenAI API` `LLM` `pytest` |
-| **[neo4j-movie-knowledge-graph](https://github.com/zkoymen/neo4j-movie-knowledge-graph)** | Movie knowledge graph — graph embeddings & community detection | `Python` `Neo4j` `PyKEEN` `PyTorch` `NetworkX` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `PyVis` |
-| **[melanoma-detection-ham10000](https://github.com/zkoymen/melanoma-detection-ham10000)** | Skin-lesion classifier on HAM10000 (transfer learning) | `Python` `PyTorch` `torchvision` `timm` `scikit-learn` `scikit-image` `OpenCV` `XGBoost` `imbalanced-learn` `NumPy` `Pandas` `Matplotlib` `Jupyter` |
-| **[3can-forum](https://github.com/zkoymen/3can-forum)** | Decentralised forum on Ethereum Sepolia | `Vue 3` `Pinia` `Vue Router` `Vite` `Solidity` `Hardhat` `Ethers.js` `IPFS` `Ethereum` |
-| **[kivil](https://github.com/zkoymen/kivil)** | Local-first desktop focus app — open-ended work sessions with timed *reflection intervals* to regroup and choose the next move (not a Pomodoro clock) | `React` `TypeScript` `Neutralino` `Vite` `Vitest` `Playwright` `ESLint` |
-| **[whiteboard-web](https://github.com/zkoymen/whiteboard-web)** | Real-time collaborative whiteboard with auth and role-based access (owner / editor / viewer) | `TypeScript` `Next.js` `React` `tldraw` `WebSocket` `Drizzle ORM` `PostgreSQL` `Zod` `JWT` |
+| **[rec-system](https://github.com/zkoymen/rec-system)** | End-to-end recommender: data, model, recall, ranking, serving | `Python` `PyTorch` `FastAPI` |
+| **[llm-intrusion-detection](https://github.com/zkoymen/llm-intrusion-detection)** | LLM-based network intrusion detection | `Python` `OpenAI API` |
+| **[neo4j-movie-knowledge-graph](https://github.com/zkoymen/neo4j-movie-knowledge-graph)** | Movie knowledge graph — graph embeddings & community detection | `Python` `Neo4j` `PyKEEN` `PyTorch` |
+| **[melanoma-detection-ham10000](https://github.com/zkoymen/melanoma-detection-ham10000)** | Skin-lesion classifier on HAM10000 (transfer learning) | `Python` `PyTorch` `timm` `OpenCV` |
+| **[3can-forum](https://github.com/zkoymen/3can-forum)** | Decentralised forum on Ethereum Sepolia | `Vue 3` `Solidity` `Hardhat` `IPFS` |
+| **[kivil](https://github.com/zkoymen/kivil)** | Local-first desktop focus app — open-ended work sessions with timed *reflection intervals* to regroup and choose the next move (not a Pomodoro clock) | `React` `TypeScript` `Neutralino` |
+| **[whiteboard-web](https://github.com/zkoymen/whiteboard-web)** | Real-time collaborative whiteboard with auth and role-based access (owner / editor / viewer) | `Next.js` `tldraw` `WebSocket` `PostgreSQL` |
 
 ---
 
