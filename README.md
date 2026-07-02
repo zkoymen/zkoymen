@@ -75,13 +75,13 @@ zeynep = {
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[rec-system](https://github.com/zkoymen/rec-system)** | End-to-end recommender: data, model, recall, ranking, serving | `Python` `PyTorch` `FastAPI` |
-| **[llm-intrusion-detection](https://github.com/zkoymen/llm-intrusion-detection)** | LLM-based network intrusion detection | `Python` |
-| **[neo4j-movie-knowledge-graph](https://github.com/zkoymen/neo4j-movie-knowledge-graph)** | Movie knowledge graph & graph queries | `Neo4j` `Python` |
-| **[melanoma-detection-ham10000](https://github.com/zkoymen/melanoma-detection-ham10000)** | CNN skin-lesion classifier on HAM10000 | `Keras` |
-| **[3can-forum](https://github.com/zkoymen/3can-forum)** | Decentralised forum on Ethereum Sepolia | `Vue 3` `Solidity` `IPFS` |
-| **[kivil](https://github.com/zkoymen/kivil)** | Local-first desktop focus app — open-ended work sessions with timed *reflection intervals* to regroup and choose the next move (not a Pomodoro clock) | `TypeScript` |
-| **[whiteboard-web](https://github.com/zkoymen/whiteboard-web)** | Real-time collaborative whiteboard with auth and role-based access (owner / editor / viewer) | `TypeScript` `tldraw` |
+| **[rec-system](https://github.com/zkoymen/rec-system)** | End-to-end recommender: data, model, recall, ranking, serving | `Python` `PyTorch` `FastAPI` `Pandas` `NumPy` |
+| **[llm-intrusion-detection](https://github.com/zkoymen/llm-intrusion-detection)** | LLM-based network intrusion detection | `Python` `OpenAI API` `pytest` |
+| **[neo4j-movie-knowledge-graph](https://github.com/zkoymen/neo4j-movie-knowledge-graph)** | Movie knowledge graph — graph embeddings & community detection | `Python` `Neo4j` `PyKEEN` `NetworkX` `PyTorch` |
+| **[melanoma-detection-ham10000](https://github.com/zkoymen/melanoma-detection-ham10000)** | Skin-lesion classifier on HAM10000 (transfer learning) | `Python` `PyTorch` `timm` `OpenCV` `XGBoost` |
+| **[3can-forum](https://github.com/zkoymen/3can-forum)** | Decentralised forum on Ethereum Sepolia | `Vue 3` `Solidity` `IPFS` `Ethereum` |
+| **[kivil](https://github.com/zkoymen/kivil)** | Local-first desktop focus app — open-ended work sessions with timed *reflection intervals* to regroup and choose the next move (not a Pomodoro clock) | `React` `TypeScript` `Neutralino` `Vite` |
+| **[whiteboard-web](https://github.com/zkoymen/whiteboard-web)** | Real-time collaborative whiteboard with auth and role-based access (owner / editor / viewer) | `TypeScript` `React` `tldraw` `WebSocket` `PostgreSQL` |
 
 ---
 
