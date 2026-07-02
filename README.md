@@ -80,6 +80,8 @@ zeynep = {
 | **[neo4j-movie-knowledge-graph](https://github.com/zkoymen/neo4j-movie-knowledge-graph)** | Movie knowledge graph & graph queries | `Neo4j` `Python` |
 | **[melanoma-detection-ham10000](https://github.com/zkoymen/melanoma-detection-ham10000)** | CNN skin-lesion classifier on HAM10000 | `Keras` |
 | **[3can-forum](https://github.com/zkoymen/3can-forum)** | Decentralised forum on Ethereum Sepolia | `Vue 3` `Solidity` `IPFS` |
+| **[kivil](https://github.com/zkoymen/kivil)** | Local-first desktop focus app — open-ended work sessions with timed *reflection intervals* to regroup and choose the next move (not a Pomodoro clock) | `TypeScript` |
+| **[whiteboard-web](https://github.com/zkoymen/whiteboard-web)** | Real-time collaborative whiteboard with auth and role-based access (owner / editor / viewer) | `TypeScript` `tldraw` |
 
 ---
 
