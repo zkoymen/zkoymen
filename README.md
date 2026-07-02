@@ -91,10 +91,6 @@ zeynep = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zkoymen&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
-<br/>
-
-![snake](https://raw.githubusercontent.com/zkoymen/zkoymen/output/github-snake-dark.svg)
-
 </div>
 
 ---
