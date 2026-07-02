@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Computer+Engineering+Student;Machine+Learning+%26+Backend;Into+recommender+systems+%26+LLMs)](https://github.com/zkoymen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+%2F+ML+Engineer;Machine+Learning+%26+Backend;Into+recommender+systems+%26+LLMs)](https://github.com/zkoymen)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zkoymen&color=38BDF8&style=flat-square&label=Profile+Views)](https://github.com/zkoymen)
 &nbsp;
