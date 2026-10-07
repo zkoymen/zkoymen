@@ -21,11 +21,11 @@ Computer Engineering student at Ankara University. I work on machine learning sy
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,tensorflow,pandas,numpy,git&perline=8" alt="Python, PyTorch, OpenCV, scikit-learn, TensorFlow, pandas, NumPy, Git" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,tensorflow,git&perline=6" alt="Python, PyTorch, OpenCV, scikit-learn, TensorFlow, Git" />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zkoymen&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars,issues,contribs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zkoymen&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true&amp;hide=stars%2Cissues%2Ccontribs" />
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=zkoymen&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&hide=stars,issues,contribs" alt="GitHub stats" />
   </picture>
   <picture>
